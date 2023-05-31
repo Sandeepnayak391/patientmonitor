@@ -9,5 +9,6 @@ this code is created by me and used for deploying to azure iot central
 In this i have provided the screeenshots at my pratical labs and i wll provide u all the links in the description 
 
 # WEBSITE
+https://generalward-patient1.azureiotcentral.com/devices/details/DHTmonitor
 # Screenshots
 
